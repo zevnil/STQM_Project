@@ -1,0 +1,1367 @@
+Sum: 126393771.0
+Count: 101
+Mean review time:  1251423.4752475247
+VALID PRs:
+[ObjectId('5ff32b9f4a6df4966df2985b'), ObjectId('5ff32ba14a6df4966df29860'), ObjectId('5ff32ba44a6df4966df29870'), ObjectId('5ff32ba44a6df4966df29870'), ObjectId('5ff32ba64a6df4966df29877'), ObjectId('5ff32bab4a6df4966df29894'), ObjectId('5ff32bad4a6df4966df29899'), ObjectId('5ff32bb24a6df4966df298b9'), ObjectId('5ff32bb44a6df4966df298c0'), ObjectId('5ff32bb64a6df4966df298c5'), ObjectId('5ff32bb64a6df4966df298c5'), ObjectId('5ff32bbb4a6df4966df298d3'), ObjectId('5ff32c284a6df4966df29901'), ObjectId('5ff32c2d4a6df4966df29916'), ObjectId('5ff32c394a6df4966df29953'), ObjectId('5ff32c3d4a6df4966df29978'), ObjectId('5ff32c414a6df4966df29985'), ObjectId('5ff32c454a6df4966df29991'), ObjectId('5ff32c4e4a6df4966df299d4'), ObjectId('5ff32c504a6df4966df299db'), ObjectId('5ff32c554a6df4966df299f9'), ObjectId('5ff32c594a6df4966df29a10'), ObjectId('5ff32c5f4a6df4966df29a5b'), ObjectId('5ff32c614a6df4966df29a61'), ObjectId('5ff32c644a6df4966df29a6d'), ObjectId('5ff32c6e4a6df4966df29b1a'), ObjectId('5ff32c704a6df4966df29b25'), ObjectId('5ff32c734a6df4966df29b43'), ObjectId('5ff32c754a6df4966df29b68'), ObjectId('5ff32abc4a6df4966df29365'), ObjectId('5ff32abe4a6df4966df2936d'), ObjectId('5ff32ac34a6df4966df29378'), ObjectId('5ff32aca4a6df4966df29397'), ObjectId('5ff32acc4a6df4966df2939d'), ObjectId('5ff32ace4a6df4966df293a9'), ObjectId('5ff32ad14a6df4966df293b0'), ObjectId('5ff32ad34a6df4966df293b6'), ObjectId('5ff32ad54a6df4966df293c7'), ObjectId('5ff32ad74a6df4966df293ce'), ObjectId('5ff32ad94a6df4966df293d6'), ObjectId('5ff32ae04a6df4966df293f5'), ObjectId('5ff32ae64a6df4966df2940b'), ObjectId('5ff32ae84a6df4966df2941b'), ObjectId('5ff32aea4a6df4966df29448'), ObjectId('5ff32aed4a6df4966df29458'), ObjectId('5ff32aef4a6df4966df29487'), ObjectId('5ff32af14a6df4966df2949c'), ObjectId('5ff32af34a6df4966df294a3'), ObjectId('5ff32af74a6df4966df294bc'), ObjectId('5ff32af94a6df4966df294c7'), ObjectId('5ff32afd4a6df4966df294d2'), ObjectId('5ff32b014a6df4966df294ea'), ObjectId('5ff32b064a6df4966df29505'), ObjectId('5ff32b154a6df4966df29587'), ObjectId('5ff32b174a6df4966df29590'), ObjectId('5ff32b1f4a6df4966df295d6'), ObjectId('5ff32b214a6df4966df295df'), ObjectId('5ff32b234a6df4966df295e8'), ObjectId('5ff32b284a6df4966df295fa'), ObjectId('5ff32b2a4a6df4966df29609'), ObjectId('5ff32b2c4a6df4966df29614'), ObjectId('5ff32b2e4a6df4966df29624'), ObjectId('5ff32b314a6df4966df29632'), ObjectId('5ff32b314a6df4966df29632'), ObjectId('5ff32b344a6df4966df2963d'), ObjectId('5ff32b374a6df4966df29648'), ObjectId('5ff32b3b4a6df4966df29667'), ObjectId('5ff32b3f4a6df4966df29677'), ObjectId('5ff32b424a6df4966df29683'), ObjectId('5ff32b464a6df4966df29699'), ObjectId('5ff32b4a4a6df4966df296b0'), ObjectId('5ff32b4e4a6df4966df296bd'), ObjectId('5ff32b564a6df4966df296ed'), ObjectId('5ff32b5c4a6df4966df296fb'), ObjectId('5ff32b5e4a6df4966df29701'), ObjectId('5ff32b614a6df4966df2970a'), ObjectId('5ff32b674a6df4966df29729'), ObjectId('5ff32b6a4a6df4966df2972e'), ObjectId('5ff32b6c4a6df4966df29734'), ObjectId('5ff32b6e4a6df4966df29751'), ObjectId('5ff32b754a6df4966df2976e'), ObjectId('5ff32b804a6df4966df297be'), ObjectId('5ff32b844a6df4966df297dd'), ObjectId('5ff32b864a6df4966df297e3'), ObjectId('5ff32b894a6df4966df297ea'), ObjectId('5ff32b924a6df4966df29829'), ObjectId('5ff32b924a6df4966df29829'), ObjectId('5ff32b954a6df4966df2982f'), ObjectId('5ff32b9d4a6df4966df29855')] 
+
+
+DEVELOPER LIST:
+[ObjectId('5bf5901c35e3ea2b7b1062ca'), ObjectId('5bf58e8335e3ea2b7b101d08'), ObjectId('5ff32b62c26a57681e9cbac8'), ObjectId('5bf58b8b35e3ea2b7b0f9147'), ObjectId('5ff32ab9c26a57681e9c9ab2'), ObjectId('5ff32c4ac26a57681e9cf232'), ObjectId('5ff32abcc26a57681e9c9b1a'), ObjectId('5ff32c47c26a57681e9cf1b8'), ObjectId('5ff32b15c26a57681e9ca8a4'), ObjectId('5b3b201930a71b06bc6b3576'), ObjectId('5bf51c32d2f8190d88f3bae5'), ObjectId('5ff32bb8c26a57681e9cd381'), ObjectId('5ff191c8c26a57681e7b99d0'), ObjectId('5ff32bb4c26a57681e9cd299'), ObjectId('5bf58eb935e3ea2b7b102682'), ObjectId('5ff32b5cc26a57681e9cb97a'), ObjectId('5ff32c88c26a57681e9d08ea'), ObjectId('5ff32acac26a57681e9c9c40'), ObjectId('5ff32b54c26a57681e9cb824')] 
+
+
+REVIEWER LIST:
+[ObjectId('5ff32abcc26a57681e9c9b1a'), ObjectId('5ff32bb8c26a57681e9cd381'), ObjectId('5bf58e8335e3ea2b7b101d08'), ObjectId('5ff32b62c26a57681e9cbac8'), ObjectId('5bf58eb935e3ea2b7b102682'), ObjectId('5bf58b8b35e3ea2b7b0f9147'), ObjectId('5ff32ab9c26a57681e9c9ab2'), ObjectId('5ff32b15c26a57681e9ca8a4'), ObjectId('5bf51c32d2f8190d88f3bae5')] 
+
+
+t_pr_to_dev:
+KEY: 0
+VALUE: {8}
+KEY: 1
+VALUE: {10}
+KEY: 2
+VALUE: {10}
+KEY: 4
+VALUE: {8}
+KEY: 5
+VALUE: {10}
+KEY: 6
+VALUE: {2}
+KEY: 7
+VALUE: {2}
+KEY: 8
+VALUE: {13}
+KEY: 9
+VALUE: {10}
+KEY: 11
+VALUE: {2}
+KEY: 12
+VALUE: {2}
+KEY: 13
+VALUE: {10}
+KEY: 14
+VALUE: {8}
+KEY: 15
+VALUE: {3}
+KEY: 16
+VALUE: {8}
+KEY: 17
+VALUE: {8}
+KEY: 18
+VALUE: {10}
+KEY: 19
+VALUE: {10}
+KEY: 20
+VALUE: {11}
+KEY: 21
+VALUE: {8}
+KEY: 22
+VALUE: {8}
+KEY: 23
+VALUE: {1}
+KEY: 24
+VALUE: {10}
+KEY: 25
+VALUE: {14}
+KEY: 26
+VALUE: {14}
+KEY: 27
+VALUE: {14}
+KEY: 28
+VALUE: {14}
+KEY: 29
+VALUE: {6}
+KEY: 30
+VALUE: {10}
+KEY: 31
+VALUE: {0}
+KEY: 32
+VALUE: {17}
+KEY: 33
+VALUE: {10}
+KEY: 34
+VALUE: {10}
+KEY: 35
+VALUE: {10}
+KEY: 36
+VALUE: {10}
+KEY: 37
+VALUE: {10}
+KEY: 38
+VALUE: {10}
+KEY: 39
+VALUE: {10}
+KEY: 40
+VALUE: {10}
+KEY: 41
+VALUE: {10}
+KEY: 42
+VALUE: {10}
+KEY: 43
+VALUE: {10}
+KEY: 44
+VALUE: {10}
+KEY: 45
+VALUE: {10}
+KEY: 46
+VALUE: {10}
+KEY: 47
+VALUE: {10}
+KEY: 48
+VALUE: {4}
+KEY: 49
+VALUE: {10}
+KEY: 50
+VALUE: {10}
+KEY: 51
+VALUE: {10}
+KEY: 52
+VALUE: {12}
+KEY: 53
+VALUE: {8}
+KEY: 54
+VALUE: {4}
+KEY: 55
+VALUE: {10}
+KEY: 56
+VALUE: {10}
+KEY: 57
+VALUE: {10}
+KEY: 58
+VALUE: {6}
+KEY: 59
+VALUE: {10}
+KEY: 60
+VALUE: {8}
+KEY: 61
+VALUE: {8}
+KEY: 62
+VALUE: {8}
+KEY: 64
+VALUE: {8}
+KEY: 65
+VALUE: {10}
+KEY: 66
+VALUE: {10}
+KEY: 67
+VALUE: {6}
+KEY: 68
+VALUE: {4}
+KEY: 69
+VALUE: {8}
+KEY: 70
+VALUE: {10}
+KEY: 71
+VALUE: {8}
+KEY: 72
+VALUE: {18}
+KEY: 73
+VALUE: {15}
+KEY: 74
+VALUE: {15}
+KEY: 75
+VALUE: {10}
+KEY: 76
+VALUE: {10}
+KEY: 77
+VALUE: {10}
+KEY: 78
+VALUE: {10}
+KEY: 79
+VALUE: {10}
+KEY: 80
+VALUE: {2}
+KEY: 81
+VALUE: {2}
+KEY: 82
+VALUE: {8}
+KEY: 83
+VALUE: {4}
+KEY: 84
+VALUE: {8}
+KEY: 85
+VALUE: {10}
+KEY: 87
+VALUE: {10}
+KEY: 88
+VALUE: {10}
+
+
+t_dev_to_file:
+KEY: 8
+VALUE: {0, 1, 2, 261, 262, 263, 8, 9, 10, 11, 12, 13, 14, 264, 265, 17, 18, 19, 20, 268, 269, 270, 24, 272, 273, 278, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 56, 266, 267, 271, 240, 244, 120}
+KEY: 10
+VALUE: {0, 1, 2, 3, 4, 5, 6, 7, 8, 15, 17, 18, 19, 23, 28, 29, 30, 31, 48, 49, 50, 51, 52, 53, 54, 55, 58, 62, 64, 74, 77, 116, 117, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 245, 246, 247, 257, 258, 259, 260, 274, 275, 276, 277, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 314}
+KEY: 2
+VALUE: {0, 1, 16, 17, 18, 19, 20, 21, 22, 277, 24, 25, 26, 27, 304, 305, 306, 307, 308, 309, 310, 311, 312, 57, 66}
+KEY: 13
+VALUE: {8}
+KEY: 3
+VALUE: {8}
+KEY: 11
+VALUE: {52, 55, 54, 23}
+KEY: 1
+VALUE: {1, 8, 57, 58, 59, 60, 61}
+KEY: 14
+VALUE: {22, 40, 48, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116}
+KEY: 6
+VALUE: {256, 250, 17, 116, 120, 249, 58, 251, 252, 253, 254, 255}
+KEY: 0
+VALUE: {17}
+KEY: 17
+VALUE: {118}
+KEY: 4
+VALUE: {1, 8, 250, 12, 14, 241, 242, 243, 244, 17, 248, 313, 58}
+KEY: 12
+VALUE: {116}
+KEY: 18
+VALUE: {279}
+KEY: 15
+VALUE: {280, 274}
+
+
+t_file_to_pr:
+KEY: 0
+VALUE: {0, 6, 11, 16, 51, 21, 62}
+KEY: 1
+VALUE: {64, 1, 7, 14, 80, 50, 51, 53, 54, 23}
+KEY: 2
+VALUE: {1, 50, 82}
+KEY: 3
+VALUE: {1}
+KEY: 4
+VALUE: {1}
+KEY: 5
+VALUE: {1}
+KEY: 6
+VALUE: {2}
+KEY: 7
+VALUE: {2}
+KEY: 8
+VALUE: {4, 70, 8, 76, 77, 15, 48, 21, 53, 23}
+KEY: 9
+VALUE: {4}
+KEY: 10
+VALUE: {4}
+KEY: 11
+VALUE: {4}
+KEY: 12
+VALUE: {4, 54}
+KEY: 13
+VALUE: {4}
+KEY: 14
+VALUE: {4, 54}
+KEY: 15
+VALUE: {5}
+KEY: 16
+VALUE: {6}
+KEY: 17
+VALUE: {35, 36, 6, 46, 47, 17, 51, 83, 22, 29, 31}
+KEY: 18
+VALUE: {51, 21, 6}
+KEY: 19
+VALUE: {6, 51, 21, 55, 56, 57}
+KEY: 20
+VALUE: {21, 6}
+KEY: 21
+VALUE: {81, 6}
+KEY: 22
+VALUE: {26, 7}
+KEY: 23
+VALUE: {9, 19, 20}
+KEY: 24
+VALUE: {16, 11, 21, 14}
+KEY: 25
+VALUE: {12}
+KEY: 26
+VALUE: {12}
+KEY: 27
+VALUE: {12}
+KEY: 28
+VALUE: {13}
+KEY: 29
+VALUE: {13}
+KEY: 30
+VALUE: {13}
+KEY: 31
+VALUE: {13}
+KEY: 32
+VALUE: {14}
+KEY: 33
+VALUE: {14}
+KEY: 34
+VALUE: {14}
+KEY: 35
+VALUE: {14}
+KEY: 36
+VALUE: {14}
+KEY: 37
+VALUE: {14}
+KEY: 38
+VALUE: {14}
+KEY: 39
+VALUE: {14}
+KEY: 40
+VALUE: {25, 14}
+KEY: 41
+VALUE: {14}
+KEY: 42
+VALUE: {14}
+KEY: 43
+VALUE: {14}
+KEY: 44
+VALUE: {14}
+KEY: 45
+VALUE: {14}
+KEY: 46
+VALUE: {14}
+KEY: 47
+VALUE: {14}
+KEY: 48
+VALUE: {25, 66, 14}
+KEY: 49
+VALUE: {17, 78}
+KEY: 50
+VALUE: {18, 19}
+KEY: 51
+VALUE: {19}
+KEY: 52
+VALUE: {19, 20}
+KEY: 53
+VALUE: {19}
+KEY: 54
+VALUE: {19, 20}
+KEY: 55
+VALUE: {19, 20}
+KEY: 56
+VALUE: {21}
+KEY: 57
+VALUE: {80, 23}
+KEY: 58
+VALUE: {48, 47, 29, 23}
+KEY: 59
+VALUE: {23}
+KEY: 60
+VALUE: {23}
+KEY: 61
+VALUE: {23}
+KEY: 62
+VALUE: {24}
+KEY: 63
+VALUE: {25}
+KEY: 64
+VALUE: {25, 36}
+KEY: 65
+VALUE: {25}
+KEY: 66
+VALUE: {80, 26}
+KEY: 67
+VALUE: {26}
+KEY: 68
+VALUE: {26}
+KEY: 69
+VALUE: {26}
+KEY: 70
+VALUE: {26}
+KEY: 71
+VALUE: {26}
+KEY: 72
+VALUE: {26}
+KEY: 73
+VALUE: {26}
+KEY: 74
+VALUE: {26, 36}
+KEY: 75
+VALUE: {26}
+KEY: 76
+VALUE: {26}
+KEY: 77
+VALUE: {66, 27, 28}
+KEY: 78
+VALUE: {27}
+KEY: 79
+VALUE: {27}
+KEY: 80
+VALUE: {27}
+KEY: 81
+VALUE: {27}
+KEY: 82
+VALUE: {27}
+KEY: 83
+VALUE: {27}
+KEY: 84
+VALUE: {27}
+KEY: 85
+VALUE: {27}
+KEY: 86
+VALUE: {27}
+KEY: 87
+VALUE: {27}
+KEY: 88
+VALUE: {27}
+KEY: 89
+VALUE: {27}
+KEY: 90
+VALUE: {27}
+KEY: 91
+VALUE: {27}
+KEY: 92
+VALUE: {27}
+KEY: 93
+VALUE: {27}
+KEY: 94
+VALUE: {27}
+KEY: 95
+VALUE: {27}
+KEY: 96
+VALUE: {27}
+KEY: 97
+VALUE: {27}
+KEY: 98
+VALUE: {27}
+KEY: 99
+VALUE: {27}
+KEY: 100
+VALUE: {27}
+KEY: 101
+VALUE: {27}
+KEY: 102
+VALUE: {27}
+KEY: 103
+VALUE: {27}
+KEY: 104
+VALUE: {27}
+KEY: 105
+VALUE: {27}
+KEY: 106
+VALUE: {28}
+KEY: 107
+VALUE: {28}
+KEY: 108
+VALUE: {28}
+KEY: 109
+VALUE: {28}
+KEY: 110
+VALUE: {28}
+KEY: 111
+VALUE: {28}
+KEY: 112
+VALUE: {28}
+KEY: 113
+VALUE: {28}
+KEY: 114
+VALUE: {28}
+KEY: 115
+VALUE: {28}
+KEY: 116
+VALUE: {28, 34, 37, 38, 39, 40, 41, 42, 43, 44, 45, 50, 52, 58, 59, 65, 66, 75, 78, 79}
+KEY: 117
+VALUE: {50, 30}
+KEY: 118
+VALUE: {32}
+KEY: 119
+VALUE: {33}
+KEY: 120
+VALUE: {64, 33, 67, 71, 47, 49, 50, 84, 61}
+KEY: 121
+VALUE: {33}
+KEY: 122
+VALUE: {33}
+KEY: 123
+VALUE: {33}
+KEY: 124
+VALUE: {33}
+KEY: 125
+VALUE: {33, 78}
+KEY: 126
+VALUE: {34}
+KEY: 127
+VALUE: {36}
+KEY: 128
+VALUE: {36}
+KEY: 129
+VALUE: {36}
+KEY: 130
+VALUE: {36}
+KEY: 131
+VALUE: {36}
+KEY: 132
+VALUE: {40, 41, 43, 44, 45}
+KEY: 133
+VALUE: {41}
+KEY: 134
+VALUE: {41}
+KEY: 135
+VALUE: {41}
+KEY: 136
+VALUE: {41}
+KEY: 137
+VALUE: {41}
+KEY: 138
+VALUE: {41}
+KEY: 139
+VALUE: {41}
+KEY: 140
+VALUE: {41}
+KEY: 141
+VALUE: {42}
+KEY: 142
+VALUE: {42}
+KEY: 143
+VALUE: {42}
+KEY: 144
+VALUE: {42}
+KEY: 145
+VALUE: {42}
+KEY: 146
+VALUE: {42}
+KEY: 147
+VALUE: {42}
+KEY: 148
+VALUE: {42}
+KEY: 149
+VALUE: {42}
+KEY: 150
+VALUE: {42}
+KEY: 151
+VALUE: {42}
+KEY: 152
+VALUE: {42}
+KEY: 153
+VALUE: {42}
+KEY: 154
+VALUE: {42}
+KEY: 155
+VALUE: {42}
+KEY: 156
+VALUE: {42}
+KEY: 157
+VALUE: {42}
+KEY: 158
+VALUE: {42}
+KEY: 159
+VALUE: {42}
+KEY: 160
+VALUE: {42}
+KEY: 161
+VALUE: {42}
+KEY: 162
+VALUE: {42}
+KEY: 163
+VALUE: {42}
+KEY: 164
+VALUE: {42}
+KEY: 165
+VALUE: {42}
+KEY: 166
+VALUE: {42}
+KEY: 167
+VALUE: {42}
+KEY: 168
+VALUE: {42}
+KEY: 169
+VALUE: {42}
+KEY: 170
+VALUE: {42}
+KEY: 171
+VALUE: {42}
+KEY: 172
+VALUE: {42}
+KEY: 173
+VALUE: {42}
+KEY: 174
+VALUE: {42}
+KEY: 175
+VALUE: {42}
+KEY: 176
+VALUE: {42}
+KEY: 177
+VALUE: {42}
+KEY: 178
+VALUE: {42}
+KEY: 179
+VALUE: {43}
+KEY: 180
+VALUE: {43}
+KEY: 181
+VALUE: {43}
+KEY: 182
+VALUE: {43}
+KEY: 183
+VALUE: {43}
+KEY: 184
+VALUE: {43}
+KEY: 185
+VALUE: {43}
+KEY: 186
+VALUE: {43}
+KEY: 187
+VALUE: {44}
+KEY: 188
+VALUE: {44}
+KEY: 189
+VALUE: {44}
+KEY: 190
+VALUE: {44}
+KEY: 191
+VALUE: {44}
+KEY: 192
+VALUE: {44}
+KEY: 193
+VALUE: {44}
+KEY: 194
+VALUE: {44}
+KEY: 195
+VALUE: {44}
+KEY: 196
+VALUE: {44}
+KEY: 197
+VALUE: {44}
+KEY: 198
+VALUE: {44}
+KEY: 199
+VALUE: {44}
+KEY: 200
+VALUE: {44}
+KEY: 201
+VALUE: {44}
+KEY: 202
+VALUE: {44}
+KEY: 203
+VALUE: {44}
+KEY: 204
+VALUE: {44}
+KEY: 205
+VALUE: {44}
+KEY: 206
+VALUE: {44}
+KEY: 207
+VALUE: {44}
+KEY: 208
+VALUE: {44}
+KEY: 209
+VALUE: {44}
+KEY: 210
+VALUE: {44}
+KEY: 211
+VALUE: {44}
+KEY: 212
+VALUE: {44}
+KEY: 213
+VALUE: {44}
+KEY: 214
+VALUE: {44}
+KEY: 215
+VALUE: {44}
+KEY: 216
+VALUE: {44}
+KEY: 217
+VALUE: {44}
+KEY: 218
+VALUE: {44}
+KEY: 219
+VALUE: {44}
+KEY: 220
+VALUE: {44}
+KEY: 221
+VALUE: {44}
+KEY: 222
+VALUE: {44}
+KEY: 223
+VALUE: {44}
+KEY: 224
+VALUE: {44}
+KEY: 225
+VALUE: {44}
+KEY: 226
+VALUE: {45}
+KEY: 227
+VALUE: {45}
+KEY: 228
+VALUE: {45}
+KEY: 229
+VALUE: {45}
+KEY: 230
+VALUE: {45}
+KEY: 231
+VALUE: {45}
+KEY: 232
+VALUE: {45}
+KEY: 233
+VALUE: {45}
+KEY: 234
+VALUE: {45}
+KEY: 235
+VALUE: {45}
+KEY: 236
+VALUE: {45}
+KEY: 237
+VALUE: {45}
+KEY: 238
+VALUE: {45}
+KEY: 239
+VALUE: {47}
+KEY: 240
+VALUE: {84, 47}
+KEY: 241
+VALUE: {48}
+KEY: 242
+VALUE: {48}
+KEY: 243
+VALUE: {48}
+KEY: 244
+VALUE: {48, 62}
+KEY: 245
+VALUE: {50}
+KEY: 246
+VALUE: {50}
+KEY: 247
+VALUE: {51}
+KEY: 248
+VALUE: {54}
+KEY: 249
+VALUE: {58}
+KEY: 250
+VALUE: {58, 68}
+KEY: 251
+VALUE: {58}
+KEY: 252
+VALUE: {58}
+KEY: 253
+VALUE: {58}
+KEY: 254
+VALUE: {58}
+KEY: 255
+VALUE: {58}
+KEY: 256
+VALUE: {58}
+KEY: 257
+VALUE: {59}
+KEY: 258
+VALUE: {66, 59}
+KEY: 259
+VALUE: {59}
+KEY: 260
+VALUE: {59}
+KEY: 261
+VALUE: {60}
+KEY: 262
+VALUE: {60}
+KEY: 263
+VALUE: {60}
+KEY: 264
+VALUE: {60}
+KEY: 265
+VALUE: {60}
+KEY: 266
+VALUE: {60}
+KEY: 267
+VALUE: {60}
+KEY: 268
+VALUE: {60}
+KEY: 269
+VALUE: {60}
+KEY: 270
+VALUE: {60}
+KEY: 271
+VALUE: {60}
+KEY: 272
+VALUE: {61}
+KEY: 273
+VALUE: {82, 62}
+KEY: 274
+VALUE: {65, 66, 74}
+KEY: 275
+VALUE: {65}
+KEY: 276
+VALUE: {65}
+KEY: 277
+VALUE: {80, 81, 66, 75}
+KEY: 278
+VALUE: {69}
+KEY: 279
+VALUE: {72}
+KEY: 280
+VALUE: {73}
+KEY: 281
+VALUE: {75}
+KEY: 282
+VALUE: {75}
+KEY: 283
+VALUE: {75}
+KEY: 284
+VALUE: {78}
+KEY: 285
+VALUE: {78}
+KEY: 286
+VALUE: {78}
+KEY: 287
+VALUE: {78}
+KEY: 288
+VALUE: {78}
+KEY: 289
+VALUE: {78}
+KEY: 290
+VALUE: {78}
+KEY: 291
+VALUE: {78}
+KEY: 292
+VALUE: {78}
+KEY: 293
+VALUE: {78}
+KEY: 294
+VALUE: {78}
+KEY: 295
+VALUE: {78}
+KEY: 296
+VALUE: {78}
+KEY: 297
+VALUE: {78}
+KEY: 298
+VALUE: {78}
+KEY: 299
+VALUE: {78}
+KEY: 300
+VALUE: {78}
+KEY: 301
+VALUE: {78}
+KEY: 302
+VALUE: {79}
+KEY: 303
+VALUE: {79}
+KEY: 304
+VALUE: {80}
+KEY: 305
+VALUE: {80}
+KEY: 306
+VALUE: {80, 81}
+KEY: 307
+VALUE: {80}
+KEY: 308
+VALUE: {80}
+KEY: 309
+VALUE: {80}
+KEY: 310
+VALUE: {81}
+KEY: 311
+VALUE: {81}
+KEY: 312
+VALUE: {81}
+KEY: 313
+VALUE: {83}
+KEY: 314
+VALUE: {88, 85, 87}
+
+
+t_pr_to_rev:
+KEY: 0
+VALUE: {3}
+KEY: 1
+VALUE: {3}
+KEY: 2
+VALUE: {3, 7}
+KEY: 4
+VALUE: {3, 7}
+KEY: 5
+VALUE: {7}
+KEY: 6
+VALUE: {3, 7}
+KEY: 7
+VALUE: {7}
+KEY: 8
+VALUE: {7}
+KEY: 9
+VALUE: {1, 7}
+KEY: 11
+VALUE: {3, 7}
+KEY: 12
+VALUE: {5}
+KEY: 13
+VALUE: {7}
+KEY: 14
+VALUE: {4, 7}
+KEY: 15
+VALUE: {2}
+KEY: 16
+VALUE: {8, 2, 7}
+KEY: 17
+VALUE: {2}
+KEY: 18
+VALUE: {2}
+KEY: 19
+VALUE: {1}
+KEY: 20
+VALUE: {7}
+KEY: 21
+VALUE: {2}
+KEY: 22
+VALUE: {2}
+KEY: 23
+VALUE: {7}
+KEY: 24
+VALUE: {2}
+KEY: 25
+VALUE: {2}
+KEY: 26
+VALUE: {2, 4}
+KEY: 27
+VALUE: {2}
+KEY: 28
+VALUE: {2}
+KEY: 29
+VALUE: {8}
+KEY: 30
+VALUE: {0}
+KEY: 31
+VALUE: {8}
+KEY: 32
+VALUE: {8}
+KEY: 33
+VALUE: {0}
+KEY: 34
+VALUE: {0}
+KEY: 35
+VALUE: {0}
+KEY: 36
+VALUE: {0}
+KEY: 37
+VALUE: {0}
+KEY: 38
+VALUE: {0}
+KEY: 39
+VALUE: {0}
+KEY: 40
+VALUE: {0}
+KEY: 41
+VALUE: {0}
+KEY: 42
+VALUE: {0}
+KEY: 43
+VALUE: {0}
+KEY: 44
+VALUE: {0}
+KEY: 45
+VALUE: {0}
+KEY: 46
+VALUE: {0}
+KEY: 47
+VALUE: {8, 6}
+KEY: 48
+VALUE: {8}
+KEY: 49
+VALUE: {0}
+KEY: 50
+VALUE: {8, 6}
+KEY: 51
+VALUE: {8, 6}
+KEY: 52
+VALUE: {8}
+KEY: 53
+VALUE: {6}
+KEY: 54
+VALUE: {7}
+KEY: 55
+VALUE: {6}
+KEY: 56
+VALUE: {6}
+KEY: 57
+VALUE: {0, 8}
+KEY: 58
+VALUE: {8}
+KEY: 59
+VALUE: {6}
+KEY: 60
+VALUE: {8}
+KEY: 61
+VALUE: {8, 7}
+KEY: 62
+VALUE: {8}
+KEY: 64
+VALUE: {8}
+KEY: 65
+VALUE: {7}
+KEY: 66
+VALUE: {7}
+KEY: 67
+VALUE: {7}
+KEY: 68
+VALUE: {8}
+KEY: 69
+VALUE: {8}
+KEY: 70
+VALUE: {8, 7}
+KEY: 71
+VALUE: {8}
+KEY: 72
+VALUE: {8}
+KEY: 73
+VALUE: {8}
+KEY: 74
+VALUE: {8}
+KEY: 75
+VALUE: {8, 3}
+KEY: 76
+VALUE: {3}
+KEY: 77
+VALUE: {3}
+KEY: 78
+VALUE: {3}
+KEY: 79
+VALUE: {8, 3}
+KEY: 80
+VALUE: {8, 3, 7}
+KEY: 81
+VALUE: {3, 7}
+KEY: 82
+VALUE: {3}
+KEY: 83
+VALUE: {7}
+KEY: 84
+VALUE: {3}
+KEY: 85
+VALUE: {3, 7}
+KEY: 87
+VALUE: {7}
+KEY: 88
+VALUE: {3}
+No. of Dev: 19
+No. of Rev: 9
+No. of PRs: 89
+No. of Files: 315
+
+FILES:
+giraph-core/src/main/java/org/apache/giraph/job/DefaultJobProgressTrackerService.java
+giraph-core/src/main/java/org/apache/giraph/conf/GiraphConstants.java
+giraph-core/src/main/java/org/apache/giraph/conf/ImmutableClassesGiraphConfiguration.java
+giraph-core/src/main/java/org/apache/giraph/factories/DefaultInputOutEdgesFactory.java
+giraph-core/src/main/java/org/apache/giraph/factories/DefaultOutEdgesFactory.java
+giraph-core/src/main/java/org/apache/giraph/factories/OutEdgesFactory.java
+giraph-core/src/main/java/org/apache/giraph/edge/LongByteHashMapEdges.java
+giraph-core/src/test/java/org/apache/giraph/edge/LongByteHashMapEdgesTest.java
+giraph-core/src/main/java/org/apache/giraph/master/BspServiceMaster.java
+giraph-core/src/main/java/org/apache/giraph/master/DefaultMasterObserver.java
+giraph-core/src/main/java/org/apache/giraph/master/MasterObserver.java
+giraph-core/src/main/java/org/apache/giraph/metrics/ValueWithHostname.java
+giraph-core/src/main/java/org/apache/giraph/utils/JMapHistoDumper.java
+giraph-core/src/main/java/org/apache/giraph/utils/LogVersions.java
+giraph-core/src/main/java/org/apache/giraph/utils/ReactiveJMapHistoDumper.java
+giraph-core/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java
+giraph-core/src/main/java/org/apache/giraph/graph/GraphMapper.java
+giraph-core/src/main/java/org/apache/giraph/graph/GraphTaskManager.java
+giraph-core/src/main/java/org/apache/giraph/graph/JobProgressTrackerClientNoOp.java
+giraph-core/src/main/java/org/apache/giraph/graph/RetryableJobProgressTrackerClient.java
+giraph-core/src/main/java/org/apache/giraph/job/JobProgressTracker.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/KryoWritableWrapper.java
+giraph-core/src/main/java/org/apache/giraph/graph/ComputeCallable.java
+giraph-core/src/main/java/org/apache/giraph/ooc/policy/MemoryEstimatorOracle.java
+giraph-core/src/main/java/org/apache/giraph/job/CombinedWorkerProgress.java
+giraph-core/src/main/java/org/apache/giraph/comm/SendMessageCache.java
+giraph-core/src/main/java/org/apache/giraph/comm/SendOneMessageToManyCache.java
+giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyWorkerClientRequestProcessor.java
+giraph-core/src/main/java/org/apache/giraph/edge/IdAndNullArrayEdges.java
+giraph-core/src/main/java/org/apache/giraph/edge/IdAndValueArrayEdges.java
+giraph-core/src/test/java/org/apache/giraph/edge/IdAndNullArrayEdgesTest.java
+giraph-core/src/test/java/org/apache/giraph/edge/IdAndValueArrayEdgesTest.java
+giraph-block-app-8/src/test/java/org/apache/giraph/writable/kryo/KryoWritableWrapperJava8Test.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/BlockUtils.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/Block.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/EmptyBlock.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/FilteringBlock.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/IfBlock.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/PieceCount.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/RepeatBlock.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/RepeatUntilBlock.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/block/SequenceBlock.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/piece/AbstractPiece.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/piece/delegate/DelegatePiece.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/migration/MigrationFullBlockFactory.java
+giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/BlockApiHandleTest.java
+giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/block/TestIfBlock.java
+giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/block/TestRepeatBlock.java
+giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/block/TestRepeatUntilBlock.java
+giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperManager.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/output/BlockOutputFormat.java
+findbugs-exclude.xml
+giraph-core/src/main/java/org/apache/giraph/comm/flow_control/CreditBasedFlowControl.java
+giraph-core/src/main/java/org/apache/giraph/ooc/OutOfCoreIOStatistics.java
+giraph-core/src/main/java/org/apache/giraph/ooc/policy/ThresholdBasedOracle.java
+giraph-core/src/main/java/org/apache/giraph/utils/ThreadUtils.java
+giraph-core/src/main/java/org/apache/giraph/master/MasterProgress.java
+giraph-core/src/main/java/org/apache/giraph/bsp/BspService.java
+giraph-core/src/main/java/org/apache/giraph/worker/BspServiceWorker.java
+giraph-core/src/main/java/org/apache/giraph/zk/BspEvent.java
+giraph-core/src/main/java/org/apache/giraph/zk/PredicateLock.java
+giraph-core/src/test/java/org/apache/giraph/zk/TestPredicateLock.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/AbstractBlockFactory.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/library/Pieces.java
+giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/BlockExecutionTest.java
+giraph-block-app/src/test/java/org/apache/giraph/block_app/framework/block/BlockTestingUtils.java
+giraph-block-app-8/src/test/java/org/apache/giraph/block_app/framework/no_vtx/MessagesWithoutVerticesTest.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/api/local/InternalApi.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/api/local/InternalMessageStore.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/api/local/LocalBlockRunner.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/piece/DefaultParentPiece.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/piece/messages/ObjectMessageClasses.java
+giraph-core/src/main/java/org/apache/giraph/bsp/CentralizedService.java
+giraph-core/src/main/java/org/apache/giraph/comm/ServerData.java
+giraph-core/src/main/java/org/apache/giraph/conf/DefaultMessageClasses.java
+giraph-core/src/main/java/org/apache/giraph/conf/MessageClasses.java
+giraph-core/src/main/java/org/apache/giraph/graph/OnlyIdVertex.java
+giraph-block-app-8/pom.xml
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/BooleanComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/ByteComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/DoubleComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/FloatComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/IntComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/LongComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/ShortComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/function/primitive/comparators/package-info.java
+giraph-core/src/main/java/org/apache/giraph/function/Notifier.java
+giraph-core/src/main/java/org/apache/giraph/function/ObjectNotifier.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Boolean2BooleanFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Boolean2ObjFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Byte2ByteFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Byte2ObjFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Double2DoubleFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Double2ObjFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Float2FloatFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Float2ObjFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Int2IntFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Int2ObjFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Long2LongFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Long2ObjFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Short2ObjFunction.java
+giraph-core/src/main/java/org/apache/giraph/function/primitive/Short2ShortFunction.java
+giraph-core/src/test/java/org/apache/giraph/generate/GeneratePrimitiveClasses.java
+giraph-core/templates/Type2ObjFunction.java
+giraph-core/templates/Type2TypeFunction.java
+giraph-core/templates/TypeComparatorFunction.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/ClassCodeGenerator.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/FactoryCodeGenerator.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/LambdaConfOption.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/ObjectFactoryConfOption.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/ObjectInitializerConfOption.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/RuntimeClassGenerator.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/RuntimeObjectFactoryGenerator.java
+giraph-block-app-8/src/main/java/org/apache/giraph/compiling/package-info.java
+giraph-block-app-8/src/test/java/org/apache/giraph/compiling/TestLambdaConfOption.java
+giraph-block-app-8/src/test/java/org/apache/giraph/compiling/TestRuntimeObjectFactoryCreationUtils.java
+pom.xml
+giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyServer.java
+giraph-core/src/main/java/org/apache/giraph/yarn/GiraphApplicationMaster.java
+giraph-core/pom.xml
+giraph-core/src/main/java/org/apache/giraph/comm/netty/NettyClient.java
+giraph-core/src/main/java/org/apache/giraph/mapping/LongByteMappingStore.java
+giraph-core/src/main/java/org/apache/giraph/ooc/persistence/LocalDiskDataAccessor.java
+giraph-core/src/main/java/org/apache/giraph/utils/AnnotationUtils.java
+giraph-core/src/main/java/org/apache/giraph/utils/UnsafeArrayReads.java
+giraph-core/src/main/java/org/apache/giraph/utils/UnsafeReads.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/output/BlockOutputHandle.java
+giraph-block-app/pom.xml
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/internal/BlockMasterLogic.java
+giraph-core/src/main/java/org/apache/giraph/master/SuperstepClasses.java
+giraph-core/src/main/java/org/apache/giraph/reducers/impl/PairReduce.java
+giraph-core/src/main/java/org/apache/giraph/worker/AllWorkersInfo.java
+giraph-dist/pom.xml
+giraph-accumulo/pom.xml
+giraph-accumulo/src/main/assembly/compile.xml
+giraph-accumulo/src/main/java/org/apache/giraph/io/accumulo/AccumuloVertexInputFormat.java
+giraph-accumulo/src/main/java/org/apache/giraph/io/accumulo/AccumuloVertexOutputFormat.java
+giraph-accumulo/src/main/java/org/apache/giraph/io/accumulo/package-info.java
+giraph-accumulo/src/test/java/org/apache/giraph/io/accumulo/TestAccumuloVertexFormat.java
+giraph-accumulo/src/test/java/org/apache/giraph/io/accumulo/edgemarker/AccumuloEdgeInputFormat.java
+giraph-accumulo/src/test/java/org/apache/giraph/io/accumulo/edgemarker/AccumuloEdgeOutputFormat.java
+giraph-rexster/giraph-kibble/pom.xml
+giraph-rexster/giraph-kibble/src/assembly/distribution.xml
+giraph-rexster/giraph-kibble/src/assembly/standalone.xml
+giraph-rexster/giraph-kibble/src/main/assembly/compile.xml
+giraph-rexster/giraph-kibble/src/main/java/org/apache/giraph/rexster/kibble/GiraphExtension.java
+giraph-rexster/giraph-kibble/src/main/java/org/apache/giraph/rexster/kibble/IteratorEdge.java
+giraph-rexster/giraph-kibble/src/main/java/org/apache/giraph/rexster/kibble/IteratorVertex.java
+giraph-rexster/giraph-kibble/src/main/resources/META-INF/services/com.tinkerpop.rexster.extension.RexsterExtension
+giraph-rexster/giraph-rexster-io/pom.xml
+giraph-rexster/giraph-rexster-io/src/main/assembly/compile.xml
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/conf/GiraphRexsterConstants.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/conf/package-info.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/RexsterEdgeInputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/RexsterEdgeOutputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/RexsterInputSplit.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/RexsterVertexInputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/RexsterVertexOutputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongDoubleDoubleEdgeOutputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongDoubleDoubleVertexInputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongDoubleDoubleVertexOutputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongDoubleEdgeInputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongDoubleFloatEdgeOutputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongDoubleFloatVertexInputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongDoubleFloatVertexOutputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/RexsterLongFloatEdgeInputFormat.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/formats/package-info.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/io/package-info.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/utils/RexsterUtils.java
+giraph-rexster/giraph-rexster-io/src/main/java/org/apache/giraph/rexster/utils/package-info.java
+giraph-rexster/giraph-rexster-io/src/test/java/org/apache/giraph/rexster/io/formats/TestRexsterLongDoubleFloatIOFormat.java
+giraph-rexster/giraph-rexster-io/src/test/resources/org/apache/giraph/rexster/io/formats/emptyneodb-output.json
+giraph-rexster/giraph-rexster-io/src/test/resources/org/apache/giraph/rexster/io/formats/emptyorientdb-output.json
+giraph-rexster/giraph-rexster-io/src/test/resources/org/apache/giraph/rexster/io/formats/emptytgdb-output.json
+giraph-rexster/giraph-rexster-io/src/test/resources/org/apache/giraph/rexster/io/formats/neodb-output.json
+giraph-rexster/giraph-rexster-io/src/test/resources/org/apache/giraph/rexster/io/formats/orientdb-output.json
+giraph-rexster/giraph-rexster-io/src/test/resources/org/apache/giraph/rexster/io/formats/rexster.xml
+giraph-rexster/giraph-rexster-io/src/test/resources/org/apache/giraph/rexster/io/formats/tgdb-output.json
+giraph-rexster/pom.xml
+giraph-hbase/pom.xml
+giraph-hbase/src/main/assembly/compile.xml
+giraph-hbase/src/main/java/org/apache/giraph/io/hbase/HBaseVertexInputFormat.java
+giraph-hbase/src/main/java/org/apache/giraph/io/hbase/HBaseVertexOutputFormat.java
+giraph-hbase/src/main/java/org/apache/giraph/io/hbase/package-info.java
+giraph-hbase/src/test/java/org/apache/giraph/io/hbase/TestHBaseRootMarkerVertextFormat.java
+giraph-hbase/src/test/java/org/apache/giraph/io/hbase/edgemarker/TableEdgeInputFormat.java
+giraph-hbase/src/test/java/org/apache/giraph/io/hbase/edgemarker/TableEdgeOutputFormat.java
+giraph-gora/conf/edge.avsc
+giraph-gora/conf/edge_result.avsc
+giraph-gora/conf/gora-cassandra-mapping.xml
+giraph-gora/conf/gora-hbase-mapping.xml
+giraph-gora/conf/gora.properties
+giraph-gora/conf/vertex.avsc
+giraph-gora/conf/vertex_result.avsc
+giraph-gora/conf/zoo.cfg
+giraph-gora/pom.xml
+giraph-gora/src/main/assembly/compile.xml
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraEdgeInputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraEdgeOutputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraGEdgeEdgeInputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraGEdgeEdgeOutputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraGVertexVertexInputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraGVertexVertexOutputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraVertexInputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/GoraVertexOutputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/constants/GiraphGoraConstants.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/constants/package-info.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/generated/GEdge.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/generated/GEdgeResult.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/generated/GVertex.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/generated/GVertexResult.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/generated/package-info.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/package-info.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/utils/DefaultKeyFactory.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/utils/ExtraGoraInputFormat.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/utils/GoraUtils.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/utils/KeyFactory.java
+giraph-gora/src/main/java/org/apache/giraph/io/gora/utils/package-info.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/GoraTestEdgeInputFormat.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/GoraTestEdgeOutputFormat.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/GoraTestVertexInputFormat.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/GoraTestVertexOutputFormat.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/TestGoraEdgeInputFormat.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/TestGoraEdgeOutputFormat.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/TestGoraVertexInputFormat.java
+giraph-gora/src/test/java/org/apache/giraph/io/gora/TestGoraVertexOutputFormat.java
+giraph-hcatalog/pom.xml
+giraph-hcatalog/src/main/assembly/compile.xml
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/GiraphHCatInputFormat.java
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/HCatGiraphRunner.java
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/HCatalogEdgeInputFormat.java
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/HCatalogVertexInputFormat.java
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/HCatalogVertexOutputFormat.java
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/HCatalogVertexValueInputFormat.java
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/HiveUtils.java
+giraph-hcatalog/src/main/java/org/apache/giraph/io/hcatalog/package-info.java
+giraph-hcatalog/src/main/java/org/apache/hcatalog/mapreduce/HCatUtils.java
+giraph-hcatalog/src/main/java/org/apache/hcatalog/mapreduce/package-info.java
+giraph-hcatalog/src/test/java/org/apache/giraph/io/hcatalog/TestHiveUtils.java
+checkstyle.xml
+giraph-core/src/main/java/org/apache/giraph/comm/netty/ChannelRotater.java
+giraph-core/src/main/java/org/apache/giraph/bsp/CentralizedServiceMaster.java
+giraph-core/src/main/java/org/apache/giraph/counters/CustomCounters.java
+giraph-core/src/main/java/org/apache/giraph/counters/GiraphTimers.java
+giraph-core/src/main/java/org/apache/giraph/master/MasterThread.java
+giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/RequestServerHandler.java
+giraph-core/src/main/java/org/apache/giraph/conf/FacebookConfiguration.java
+giraph-core/src/main/java/org/apache/giraph/graph/JobProgressTrackerClient.java
+giraph-core/src/main/java/org/apache/giraph/utils/JMap.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/library/internal/SendMessageWithCombinerPiece.java
+giraph-core/src/main/java/org/apache/giraph/edge/ByteArrayEdges.java
+giraph-core/src/main/java/org/apache/giraph/factories/DefaultMessageValueFactory.java
+giraph-core/src/main/java/org/apache/giraph/jython/JythonJob.java
+giraph-core/src/main/java/org/apache/giraph/scripting/DeployedScript.java
+giraph-core/src/main/java/org/apache/giraph/types/JavaWritablePair.java
+giraph-core/src/main/java/org/apache/giraph/utils/EmptyIterable.java
+giraph-core/src/main/java/org/apache/giraph/utils/TestGraph.java
+src/site/resources/doap_Giraph.rdf
+src/site/xdoc/build.xml
+src/site/xdoc/generating_patches.xml
+src/site/xdoc/releasing_giraph.xml
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityIntByteMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityIntDoubleMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityIntFloatMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityIntIntMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityIntLongMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityLongByteMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityLongDoubleMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityLongFloatMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityLongIntMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/types/heaps/FixedCapacityLongLongMinHeap.java
+giraph-core/templates/FixedCapacityType2TypeMinHeap.java
+giraph-core/src/main/java/org/apache/giraph/comm/netty/handler/ResponseClientHandler.java
+giraph-core/src/main/java/org/apache/giraph/conf/GiraphConfiguration.java
+README
+giraph-core/src/main/java/org/apache/giraph/io/internal/WrappedEdgeOutputFormat.java
+giraph-core/src/main/java/org/apache/giraph/io/internal/WrappedVertexOutputFormat.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/HadoopKryo.java
+giraph-core/src/test/java/org/apache/giraph/comm/RequestFailureTest.java
+giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/MatrixSumAggregator.java
+giraph-core/src/main/java/org/apache/giraph/yarn/GiraphYarnClient.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/serializers/ImmutableBiMapSerializerUtils.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/serializers/ImmutableMapSerializer.java
+giraph-core/src/test/java/org/apache/giraph/writable/kryo/KryoWritableWrapperTest.java
+giraph-core/src/main/java/org/apache/giraph/Algorithm.java
+giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/dense/DoubleDenseMatrixSumAggregator.java
+giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/dense/FloatDenseMatrixSumAggregator.java
+giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/dense/IntDenseMatrixSumAggregator.java
+giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/dense/LongDenseMatrixSumAggregator.java
+giraph-core/src/main/java/org/apache/giraph/aggregators/matrix/sparse/DoubleSparseMatrixSumAggregator.java
+giraph-core/src/main/java/org/apache/giraph/graph/Computation.java
+giraph-core/src/main/java/org/apache/giraph/master/MasterAggregatorUsage.java
+giraph-core/src/main/java/org/apache/giraph/master/MasterCompute.java
+giraph-core/src/main/java/org/apache/giraph/scripting/ScriptLoader.java
+giraph-core/src/main/java/org/apache/giraph/zk/GiraphZooKeeperAdmin.java
+giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperNodeCreator.java
+giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperRunner.java
+giraph-core/src/main/java/org/apache/giraph/zk/ZookeeperConfig.java
+src/site/xdoc/build_site.xml
+src/site/xdoc/index.xml
+src/site/xdoc/literature.xml
+src/site/xdoc/releases.xml
+giraph-core/src/main/java/org/apache/giraph/comm/requests/SendWorkerOneMessageToManyRequest.java
+giraph-core/src/test/java/org/apache/giraph/comm/RequestTest.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/Boxed.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/GiraphClassResolver.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/KryoSimpleWrapper.java
+giraph-core/src/main/java/org/apache/giraph/zk/ZooKeeperExt.java
+giraph-examples/src/main/java/org/apache/giraph/examples/PageRankWithKryoSimpleWritable.java
+giraph-examples/src/test/java/org/apache/giraph/examples/TestKryoPageRank.java
+giraph-block-app/src/main/java/org/apache/giraph/block_app/framework/api/giraph/BlockWorkerContext.java
+giraph-core/src/main/java/org/apache/giraph/writable/kryo/KryoSimpleWritable.java
+giraph-core/src/test/java/org/apache/giraph/writable/kryo/KryoSimpleTests.java
+giraph-core/src/main/java/org/apache/giraph/partition/PartitionUtils.java
+giraph-core/src/main/java/org/apache/giraph/ooc/data/DiskBackedPartitionStore.java
+
+D_F_PR_R matrix:
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]
+[195, 13, 117, 139, 42, 3, 79, 198, 188]

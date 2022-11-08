@@ -1,7 +1,8 @@
 from pymongo import MongoClient
-from datetime import datetime
-import networkx
-import matplotlib.pyplot as plt
+from metapath_D_F_PR_R import *
+
+import sys
+sys.stdout = open('jojo_output.txt','wt')
 
 client = MongoClient("mongodb://localhost:27017/")
 db = client["smartshark"]
@@ -57,32 +58,33 @@ def validPRs():
         if item[1] <= mean_review_time:
             valid_pr.append(item[0])
     return valid_pr, list(dev_set), list(rev_set)
+    # return valid_pr
 
 
 # I REMEMBER SIR NE EK BAAR BOLA THA KI SAARE DEVELOPERS AND REVIEWERS HONE CHAAHIYE RANK MEIN... 
 # EVEN IF THEY GET 0 AS SCORE (I.E., KAHIN KISI PATH MEIN NA AAYEIN)
 # BUT THIS FUNCTION IS TAKING SUFFICIENTLY LONG, AND MAY STILL GIVE INCOMPLETE LISTS...
 
-# def dev_rev_list():
-#     dev_set = set()
-#     rev_set = set()
+def dev_rev_list():
+    dev_set = set()
+    rev_set = set()
 
-#     pull_request_ids = review_data.find({"creator_id": {"$exists": True}})
-#     for pr_id in pull_request_ids:
-#         rev_id = pr_id["creator_id"]
-#         pull_request_id = pr_id["pull_request_id"]
-#         pull_request = pull_request_data.find({"_id": pull_request_id, "creator_id": {"$exists": True}})
+    pull_request_ids = review_data.find({"creator_id": {"$exists": True}})
+    for pr_id in pull_request_ids:
+        rev_id = pr_id["creator_id"]
+        pull_request_id = pr_id["pull_request_id"]
+        pull_request = pull_request_data.find({"_id": pull_request_id, "creator_id": {"$exists": True}})
         
-#         for pr in pull_request:
-#             pr_system = pull_request_system.find({"_id": pr["pull_request_system_id"]})
-#             if pr_system[0]["project_id"] != p_id:
-#                 continue
-#             dev_id = pr["creator_id"]
+        for pr in pull_request:
+            pr_system = pull_request_system.find({"_id": pr["pull_request_system_id"]})
+            if pr_system[0]["project_id"] != p_id:
+                continue
+            dev_id = pr["creator_id"]
             
-#             dev_set.add(dev_id)
-#             rev_set.add(rev_id)
+            dev_set.add(dev_id)
+            rev_set.add(rev_id)
     
-#     return list(dev_set), list(rev_set)
+    return list(dev_set), list(rev_set)
 
 # def D_PR_R(valid_pr):
 #     dev_count = {}
@@ -207,9 +209,14 @@ def validPRs():
 #     print("\n\n")
 
 prs, dev_list, rev_list = validPRs()
+# prs = validPRs()
 print("VALID PRs:")
 print(prs, "\n\n")
+
+# dev_list, rev_list = dev_rev_list()
 print("DEVELOPER LIST:")
 print(dev_list, "\n\n")
 print("REVIEWER LIST:")
 print(rev_list, "\n\n")
+
+rt_mat = metapath_D_F_PR_R(prs, dev_list, rev_list)
