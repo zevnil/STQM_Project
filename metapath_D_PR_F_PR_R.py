@@ -38,10 +38,10 @@ def metapath_D_PR_F_PR_R(pr_list, dev_list, rev_list):
         pr_file_details = pull_request_file.find({"pull_request_id": pr, "path": {"$exists": True}})
         for d in pr_file_details:
             file_path = d["path"]
-            file_details = file.find({"path": file_path, "_id" : True})
-            for fd in file_details:
-                f = fd["_id"]
-                pr_to_file[pr].add(f)
+            #file_details = file.find({"path": file_path, "_id" : True})
+            #for fd in file_details:
+            #    f = fd["_id"]
+            pr_to_file[pr].add(file_path)
 
     file_to_pr = {}
     # t_file_to_pr = {}
