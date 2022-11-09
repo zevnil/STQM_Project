@@ -1,8 +1,10 @@
 from pymongo import MongoClient
 from metapath_D_F_PR_R import *
+from metapath_D_PR_R import *
+from metapath_D_PR_F_PR_R import *
 
 import sys
-sys.stdout = open('jojo_output.txt','wt')
+sys.stdout = open('ishneet_output.txt','wt')
 
 client = MongoClient("mongodb://localhost:27017/")
 db = client["smartshark"]
@@ -219,4 +221,6 @@ print(dev_list, "\n\n")
 print("REVIEWER LIST:")
 print(rev_list, "\n\n")
 
-rt_mat = metapath_D_F_PR_R(prs, dev_list, rev_list)
+# rt_mat = metapath_D_PR_R(prs, dev_list, rev_list)
+# rt_mat = metapath_D_F_PR_R(prs, dev_list, rev_list)
+rt_mat = metapath_D_PR_F_PR_R(prs, dev_list, rev_list)
