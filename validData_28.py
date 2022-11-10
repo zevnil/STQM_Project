@@ -9,7 +9,7 @@ pull_request_system = db["pull_request_system"]
 project_id = db["project"].find({"name": "giraph"})
 p_id = project_id[0]['_id']
 
-def validData_26():
+def validData_28():
     mean_review_time = 0
     count_review_time = 0
     pr_details = []
@@ -45,7 +45,7 @@ def validData_26():
     print("Mean review time: ", mean_review_time)
 
     for item in pr_details:
-        if item[1] <= mean_review_time:
+        if item[1] > mean_review_time:
             valid_pr.append(item[0])
             if item[2] not in dev:
                 dev.append(item[2])

@@ -1,5 +1,14 @@
 import tensorflow as tf
-def processing(D_PR_R_matrix, D_F_PR_R_matrix, D_PR_F_PR_R_matrix, dev, rev):
+from metapath_D_PR_R import *
+from metapath_D_F_PR_R import *
+from metapath_D_PR_F_PR_R import *
+
+def processing(valid_prs, dev, rev):
+    if valid_prs[0] == -1:
+        print("NO VALID PRs FOUND")
+    D_PR_R_matrix = metapath_D_PR_R(valid_prs, dev, rev)
+    D_F_PR_R_matrix = metapath_D_F_PR_R(valid_prs, dev, rev)
+    D_PR_F_PR_R_matrix = metapath_D_PR_F_PR_R(valid_prs, dev, rev)
     no_of_paths = 3
     no_of_rev = len(rev)
     no_of_dev = len(dev)

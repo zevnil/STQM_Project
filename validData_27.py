@@ -6,10 +6,12 @@ db = client["smartshark"]
 pull_request_data = db["pull_request"]
 review_data = db["pull_request_review"]
 pull_request_system = db["pull_request_system"]
+pul_request_file = db["pull_request_file"]
 project_id = db["project"].find({"name": "giraph"})
 p_id = project_id[0]['_id']
+module = "giraph-core/src/main/java/org/apache/giraph/" # required module
 
-def validData_26():
+def validData_27():
     mean_review_time = 0
     count_review_time = 0
     pr_details = []
@@ -22,6 +24,14 @@ def validData_26():
         rev_id = pr_id["creator_id"]
         approved_time = pr_id["submitted_at"]
         pull_request_id = pr_id["pull_request_id"]
+        files = pul_request_file.find({"pull_request_id" : pull_request_id})
+        flag = 0
+        for file_item in files:
+            if(file_item["path"].find(module) != -1):
+                flag = 1
+                break
+        if flag == 0:
+            continue
         pull_request = pull_request_data.find({"_id": pull_request_id, "creator_id": {"$exists": True}, "created_at": {"$exists": True}})
         
         for pr in pull_request:

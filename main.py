@@ -1,11 +1,26 @@
 from validData_26 import *
-from metapath_D_PR_R import *
-from metapath_D_F_PR_R import *
-from metapath_D_PR_F_PR_R import *
+from validData_27 import *
+from validData_28 import *
+from validData_29 import *
+from validData_30 import *
 from processing import *
 
-valid_prs, dev, rev = validData()
-D_PR_R_matrix = metapath_D_PR_R(valid_prs, dev, rev)
-D_F_PR_R_matrix = metapath_D_F_PR_R(valid_prs, dev, rev)
-D_PR_F_PR_R_matrix = metapath_D_PR_F_PR_R(valid_prs, dev, rev)
-processing(D_PR_R_matrix, D_F_PR_R_matrix, D_PR_F_PR_R_matrix, dev, rev)
+print('\n################################################                  26               ##############################################################')
+valid_prs, dev, rev = validData_26()
+processing(valid_prs, dev, rev)
+
+print('\n#################################################                  27               ##############################################################')
+valid_prs, dev, rev = validData_27()
+processing(valid_prs, dev, rev)
+
+print('\n#################################################                  28               ##############################################################')
+valid_prs, dev, rev = validData_28()
+processing(valid_prs, dev, rev)
+
+print('\n#################################################                  29               ##############################################################')
+valid_prs, dev, rev = validData_29()
+processing(valid_prs, dev, rev)
+
+print('\n#################################################                  30               ##############################################################')
+valid_prs, dev, rev = validData_30()
+processing(valid_prs, dev, rev)

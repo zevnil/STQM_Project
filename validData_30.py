@@ -9,7 +9,7 @@ pull_request_system = db["pull_request_system"]
 project_id = db["project"].find({"name": "giraph"})
 p_id = project_id[0]['_id']
 
-def validData_26():
+def validData_30():
     mean_review_time = 0
     count_review_time = 0
     pr_details = []
@@ -51,11 +51,6 @@ def validData_26():
                 dev.append(item[2])
             if item[3] not in rev:
                 rev.append(item[3])
-
-    pull_request_comments = review_data.find({"state": "COMMENTED", "creator_id": {"$exists": True}})
-    for item in pull_request_comments:
-        if item["pull_request_id"] in valid_pr and item["creator_id"] not in rev:
-            rev.append(item["creator_id"])
 
     print("VALID PRS: ")
     print(valid_pr)
