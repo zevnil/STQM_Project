@@ -16,8 +16,8 @@ def validData_27():
     count_review_time = 0
     pr_details = []
     valid_pr = []
-    dev = []
-    rev = []
+    # dev = []
+    # rev = []
 
     pull_request_ids = review_data.find({"state": "APPROVED", "creator_id": {"$exists": True}, "submitted_at": {"$exists": True}})
     for pr_id in pull_request_ids:
@@ -57,21 +57,21 @@ def validData_27():
     for item in pr_details:
         if item[1] <= mean_review_time:
             valid_pr.append(item[0])
-            if item[2] not in dev:
-                dev.append(item[2])
-            if item[3] not in rev:
-                rev.append(item[3])
+            # if item[2] not in dev:
+            #     dev.append(item[2])
+            # if item[3] not in rev:
+            #     rev.append(item[3])
 
-    pull_request_comments = review_data.find({"state": "COMMENTED", "creator_id": {"$exists": True}})
-    for item in pull_request_comments:
-        if item["pull_request_id"] in valid_pr and item["creator_id"] not in rev:
-            rev.append(item["creator_id"])
+    # pull_request_comments = review_data.find({"state": "COMMENTED", "creator_id": {"$exists": True}})
+    # for item in pull_request_comments:
+    #     if item["pull_request_id"] in valid_pr and item["creator_id"] not in rev:
+    #         rev.append(item["creator_id"])
 
     print("VALID PRS: ")
     print(valid_pr)
-    print("DEV IDS:")
-    print(dev)
-    print("REV IDS: ")
-    print(rev)
+    # print("DEV IDS:")
+    # print(dev)
+    # print("REV IDS: ")
+    # print(rev)
     
-    return valid_pr, dev, rev
+    return valid_pr
