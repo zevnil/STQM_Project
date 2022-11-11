@@ -9,9 +9,9 @@ pull_request_system = db["pull_request_system"]
 pul_request_file = db["pull_request_file"]
 project_id = db["project"].find({"name": "giraph"})
 p_id = project_id[0]['_id']
-module = "giraph-core/src/main/java/org/apache/giraph/" # required module
+# module = "giraph-core/src/main/java/org/apache/giraph/" # required module
 
-def validData_27():
+def validData_27(module):
     mean_review_time = 0
     count_review_time = 0
     pr_details = []

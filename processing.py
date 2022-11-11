@@ -24,12 +24,14 @@ def processing(valid_prs, dev, rev):
     sum_rows = tf.reduce_sum(tensor, axis=2)
     sum_rows = tf.reshape(sum_rows, (no_of_paths,-1,1))
     T =  tensor / sum_rows
+    T = tf.where(tf.math.is_nan(T), tf.ones_like(T) * 0, T)
     print("T: ")
     print(T)
 
     sum_cols = tf.reduce_sum(tensor, axis=1)
     sum_cols = tf.reshape(sum_cols, (no_of_paths,1,-1))
     F = tensor/sum_cols
+    F = tf.where(tf.math.is_nan(F), tf.ones_like(F) * 0, F)
     print("F: ")
     print(F)
 
@@ -64,3 +66,25 @@ def processing(valid_prs, dev, rev):
         print('zt: ')
         print(zt)
         print('--------------------------------------------------------------------------------------------------------------------------------')
+    Xt = {}
+    Yt = {}
+    Zt = {}
+    xt = tf.get_static_value(xt)
+    yt = tf.get_static_value(yt)
+    zt = tf.get_static_value(zt)
+    for i, x in enumerate(xt):
+        Xt[dev[i]] = x[0]
+    for i, y in enumerate(yt):
+        Yt[i] = y[0]
+    for i, z in enumerate(zt):
+        Zt[rev[i]] = z[0]
+    print("\nXt:")
+    print(Xt)
+    print('---------------------------------------------------------------------------------------------------------------------------')
+    print("\nYt:")
+    print(Yt)
+    print('---------------------------------------------------------------------------------------------------------------------------')
+    print("\nZt:")
+    print(Zt)
+    print('---------------------------------------------------------------------------------------------------------------------------')
+    return Xt, Yt, Zt
