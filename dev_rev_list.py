@@ -1,16 +1,16 @@
 from pymongo import MongoClient
 from datetime import datetime
 
-def dev_rev_list():
+def dev_rev_list(database, project):
     dev_set = set()
     rev_set = set()
 
     client = MongoClient("mongodb://localhost:27017/")
-    db = client["smartshark"]
+    db = client[database]
     pull_request_data = db["pull_request"]
     review_data = db["pull_request_review"]
     pull_request_system = db["pull_request_system"]
-    project_id = db["project"].find({"name": "giraph"})
+    project_id = db["project"].find({"name": project})
     p_id = project_id[0]['_id']
 
     pull_request_ids = review_data.find({"creator_id": {"$exists": True}})
