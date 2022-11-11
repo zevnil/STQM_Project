@@ -1,8 +1,8 @@
 from pymongo import MongoClient
 
-def metapath_D_PR_R(pr_list, dev_list, rev_list):
+def metapath_D_PR_R(database, pr_list, dev_list, rev_list):
     client = MongoClient("mongodb://localhost:27017/")
-    db = client["smartshark"]
+    db = client[database]
     pull_request_data = db["pull_request"]
     pull_request_review_data = db["pull_request_review"]
 

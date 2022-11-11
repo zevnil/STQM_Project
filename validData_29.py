@@ -1,17 +1,16 @@
 from pymongo import MongoClient
 from datetime import datetime
-
-client = MongoClient("mongodb://localhost:27017/")
-db = client["smartshark"]
-pull_request_data = db["pull_request"]
-review_data = db["pull_request_review"]
-pull_request_system = db["pull_request_system"]
-pul_request_file = db["pull_request_file"]
-project_id = db["project"].find({"name": "giraph"})
-p_id = project_id[0]['_id']
 # module = "giraph-core/src/main/java/org/apache/giraph/" # required module
 
-def validData_29(module):
+def validData_29(database, project, module):
+    client = MongoClient("mongodb://localhost:27017/")
+    db = client[database]
+    pull_request_data = db["pull_request"]
+    review_data = db["pull_request_review"]
+    pull_request_system = db["pull_request_system"]
+    pul_request_file = db["pull_request_file"]
+    project_id = db["project"].find({"name": project})
+    p_id = project_id[0]['_id']
     mean_review_time = 0
     count_review_time = 0
     pr_details = []

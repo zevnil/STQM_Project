@@ -1,15 +1,14 @@
 from pymongo import MongoClient
 from datetime import datetime
 
-client = MongoClient("mongodb://localhost:27017/")
-db = client["smartshark"]
-pull_request_data = db["pull_request"]
-review_data = db["pull_request_review"]
-pull_request_system = db["pull_request_system"]
-project_id = db["project"].find({"name": "giraph"})
-p_id = project_id[0]['_id']
-
-def validData_28():
+def validData_28(database, project):
+    client = MongoClient("mongodb://localhost:27017/")
+    db = client[database]
+    pull_request_data = db["pull_request"]
+    review_data = db["pull_request_review"]
+    pull_request_system = db["pull_request_system"]
+    project_id = db["project"].find({"name": project})
+    p_id = project_id[0]['_id']
     mean_review_time = 0
     count_review_time = 0
     pr_details = []
