@@ -5,9 +5,9 @@ from validData_28 import *
 from validData_29 import *
 from validData_30 import *
 from processing import *
+import sys
+sys.stdout = open('output2.txt','wt')
 
-# dev, rev = dev_rev_list("smartshark", "giraph")
-dev, rev = dev_rev_list("STQ", "giraph")
 def q26(database, project):
     print('\n################################################                  26               ##############################################################')
     valid_prs = validData_26(database, project)
@@ -39,18 +39,25 @@ def q30(database, project):
     return Xt, Yt, Zt
 
 
-# q26("smartshark", "giraph")
-# q27("smartshark", "giraph", "giraph-core/src/main/java/org/apache/giraph/")
-# q28("smartshark", "giraph")
-# q29("smartshark", "giraph", "giraph-core/src/main/java/org/apache/giraph/")
-# q30("smartshark", "giraph")
+dev, rev = dev_rev_list("smartshark", "giraph")
+# dev, rev = dev_rev_list("STQ", "giraph")
+print("DEV:")
+print(dev)
+print("REV:")
+print(rev)
+
+q26("smartshark", "giraph")
+q27("smartshark", "giraph", "giraph-core/src/main/java/org/apache/giraph/")
+q28("smartshark", "giraph")
+q29("smartshark", "giraph", "giraph-core/src/main/java/org/apache/giraph/")
+q30("smartshark", "giraph")
 
 # print('#####################################################################################################################')
 # print('######################################################################################################################')
 # print('######################################################################################################################')
 
-q26("STQ", "giraph")
-q27("STQ", "giraph", "a/b/c/")
-q28("STQ", "giraph")
-q29("STQ", "giraph", "a/b/c/")
-q30("STQ", "giraph")
+# q26("STQ", "giraph")
+# q27("STQ", "giraph", "a/b/c/")
+# q28("STQ", "giraph")
+# q29("STQ", "giraph", "a/b/c/")
+# q30("STQ", "giraph")

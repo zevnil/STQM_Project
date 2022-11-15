@@ -12,7 +12,7 @@ def processing(database, valid_prs, dev, rev):
     no_of_paths = 3
     no_of_rev = len(rev)
     no_of_dev = len(dev)
-    no_of_iter = 5
+    no_of_iter = 6
 
     tensor1 = tf.convert_to_tensor(D_PR_R_matrix)
     tensor2 = tf.convert_to_tensor(D_F_PR_R_matrix)
@@ -56,7 +56,7 @@ def processing(database, valid_prs, dev, rev):
         xt = tf.reshape(tf.tensordot(tf.tensordot(tf.transpose(yt),F, axes = 1), zt, axes = 1), [-1, 1])
         yt = tf.reshape(tf.tensordot(tf.reshape(tf.tensordot(R, zt, axes = 1),[no_of_paths, -1]), xt, axes = 1),[-1, 1])
         # yt = tf.tensordot(R, zt, axes = 1)
-        zt = tf.reshape(tf.tensordot(tf.transpose(tf.reshape(tf.tensordot(tf.transpose(yt), R, axes = 1),[no_of_dev, -1])), xt, axes = 1),[-1, 1])
+        zt = tf.reshape(tf.tensordot(tf.transpose(tf.reshape(tf.tensordot(tf.transpose(yt), T, axes = 1),[no_of_dev, -1])), xt, axes = 1),[-1, 1])
         
         # zt = tf.tensordot(tf.reshape(tf.tensordot(tf.transpose(yt), R, axes = 1),[no_of_paths, -1]), xt, axes = 1)
         print('xt: ')
@@ -78,6 +78,9 @@ def processing(database, valid_prs, dev, rev):
         Yt[i] = y[0]
     for i, z in enumerate(zt):
         Zt[rev[i]] = z[0]
+    Xt = sorted(Xt.items(), key = lambda x: x[1], reverse = True)
+    Yt = sorted(Yt.items(), key = lambda x: x[1],  reverse = True)
+    Zt = sorted(Zt.items(), key = lambda x: x[1],  reverse = True)
     print("\nXt:")
     print(Xt)
     print('---------------------------------------------------------------------------------------------------------------------------')
