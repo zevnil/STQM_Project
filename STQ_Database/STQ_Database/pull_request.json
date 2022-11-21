@@ -1,0 +1,73 @@
+[{
+  "_id": "p1",
+  "pull_request_system_id": "prs_id1",
+  "creator_id": "d2",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1640649600000"
+    }
+  }
+},{
+  "_id": "p2",
+  "pull_request_system_id": "prs_id1",
+  "creator_id": "d1",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1640736000000"
+    }
+  }
+},{
+  "_id": "p3",
+  "pull_request_system_id": "prs_id1",
+  "creator_id": "d2",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1640908800000"
+    }
+  }
+},{
+  "_id": "p4",
+  "pull_request_system_id": "prs_id1",
+  "creator_id": "d3",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+},{
+  "_id": "p5",
+  "pull_request_system_id": "prs_id1",
+  "creator_id": "d4",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+},{
+  "_id": "p6",
+  "pull_request_system_id": "prs_id1",
+  "creator_id": "d5",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  }
+},{
+  "_id": "p7",
+  "pull_request_system_id": "prs_id2",
+  "creator_id": "d6",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1640649600000"
+    }
+  }
+},{
+  "_id": "p8",
+  "pull_request_system_id": "prs_id2",
+  "creator_id": "d7",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1640736000000"
+    }
+  }
+}]

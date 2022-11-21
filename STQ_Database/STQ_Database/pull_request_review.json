@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "636e0387a116b280e880c41c"
+  },
+  "pull_request_id": "p1",
+  "state": "APPROVED",
+  "creator_id": "r1",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e0387a116b280e880c41d"
+  },
+  "pull_request_id": "p2",
+  "state": "COMMENTED",
+  "creator_id": "r1",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e0387a116b280e880c41e"
+  },
+  "pull_request_id": "p3",
+  "state": "COMMENTED",
+  "creator_id": "r3",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e0387a116b280e880c41f"
+  },
+  "pull_request_id": "p4",
+  "state": "APPROVED",
+  "creator_id": "r3",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1641340800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e0387a116b280e880c420"
+  },
+  "pull_request_id": "p5",
+  "state": "COMMENTED",
+  "creator_id": "r3",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1641254400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e0387a116b280e880c421"
+  },
+  "pull_request_id": "p6",
+  "state": "APPROVED",
+  "creator_id": "r4",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1641168000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e053b849c7bd1b3e5c256"
+  },
+  "pull_request_id": "p1",
+  "state": "COMMENTED",
+  "creator_id": "r2",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e497c46f27af3ac4ccd72"
+  },
+  "pull_request_id": "p7",
+  "state": "APPROVED",
+  "creator_id": "r7",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636e497c46f27af3ac4ccd73"
+  },
+  "pull_request_id": "p8",
+  "state": "APPROVED",
+  "creator_id": "r7",
+  "submitted_at": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+}]

@@ -1,10 +1,11 @@
 from pymongo import MongoClient
 
-def metapath_D_PR_F_PR_R(database, pr_list, dev_list, rev_list):
+def metapath_D_PR_F_PR_R(database, pr_list, dev_list, rev_list, uq_map):
 
     client = MongoClient("mongodb://localhost:27017/")
     db = client[database]
     pull_request_data = db["pull_request"]
+    final_identity = db["final_identity"]
     pull_request_review = db["pull_request_review"]
     pull_request_file=db['pull_request_file']
     file=db['file']
@@ -17,18 +18,20 @@ def metapath_D_PR_F_PR_R(database, pr_list, dev_list, rev_list):
         pr_details = pull_request_data.find({"_id": pr, "creator_id": {"$exists": True}})
         for d in pr_details:
             dev_id = d["creator_id"]
-            pr_to_dev[pr].add(dev_id)
+            pr_to_dev[pr].add(uq_map[dev_id])
             # t_pr_to_dev[pr_list.index(pr)].add(dev_list.index(dev_id))
 
     dev_to_pr = {}
     # dev_to_pr = {}
     for dev in dev_list:
         dev_to_pr[dev] = set()
-
-        pr_dev_details = pull_request_data.find({"creator_id": dev, "_id": {"$exists": True}})
-        for pr in pr_dev_details:
-            pr_id = pr["_id"]
-            dev_to_pr[dev].add(pr_id)
+        developers = final_identity.find({"_id": dev})
+        for developer in developers:
+            for d in developer["people"]:
+                pr_dev_details = pull_request_data.find({"creator_id": d, "_id": {"$exists": True}})
+                for pr in pr_dev_details:
+                    pr_id = pr["_id"]
+                    dev_to_pr[dev].add(pr_id)
             # dev_to_pr[dev_list.index(dev)].add(pr_list.index(pr_id))
     
     pr_to_file = {}
@@ -71,7 +74,7 @@ def metapath_D_PR_F_PR_R(database, pr_list, dev_list, rev_list):
         for d in pr_rev_details:
             rev_id = d["creator_id"]
 
-            pr_to_rev[pr].add(rev_id)
+            pr_to_rev[pr].add(uq_map[rev_id])
             # t_pr_to_rev[pr_list.index(pr)].add(rev_list.index(rev_id))
     
 
