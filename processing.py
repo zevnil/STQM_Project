@@ -12,7 +12,7 @@ def processing(database, valid_prs, dev, rev, uq_map):
     no_of_paths = 3
     no_of_rev = len(rev)
     no_of_dev = len(dev)
-    no_of_iter = 6
+    no_of_iter = 4
 
     tensor1 = tf.convert_to_tensor(D_PR_R_matrix)
     tensor2 = tf.convert_to_tensor(D_F_PR_R_matrix)
@@ -79,8 +79,11 @@ def processing(database, valid_prs, dev, rev, uq_map):
     for i, z in enumerate(zt):
         Zt[rev[i]] = z[0]
     Xt = sorted(Xt.items(), key = lambda x: x[1], reverse = True)
+    Xt = dict(Xt)
     Yt = sorted(Yt.items(), key = lambda x: x[1],  reverse = True)
+    Yt = dict(Yt)
     Zt = sorted(Zt.items(), key = lambda x: x[1],  reverse = True)
+    Zt = dict(Zt)
     print("\nXt:")
     print(Xt)
     print('---------------------------------------------------------------------------------------------------------------------------')
